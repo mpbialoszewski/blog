@@ -1,6 +1,5 @@
-# Hello
+# CS22120 
 
-## This is a new input 
+## First blog post 
 
-### This is testing if it's working 
-
+### -------
