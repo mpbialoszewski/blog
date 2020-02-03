@@ -12,9 +12,8 @@ I've started to review all the documents that I was suppsose to read available o
 Here is the list of most important things I've learnt from those documents  
 #### Section QA.04- User Interface Specification Standards
 ##### *Use Case Document should follow specific sections:*
-* Typical users - where we should think about for who is that application designed for because every different group will different needs
-
-##### What we can learn is that some of the products do not have multiple types of users. They do however contain one type as we can read in QA.04 section 3.1 :
+* Typical users - where we should think about for who is that application designed for because every different group will have different needs.
+What we can learn is that some of the products do not have multiple types of users. They do however contain one type as we can read in QA.04 section 3.1 :
  *For some applications, e.g. many games, there is only one real type of user. Think of Pokemon Go for example.
 In that case, this section is likely to be very short, but for other applications it is very important to identify the
 needs of all of the types of users.*
