@@ -6,8 +6,8 @@ On the last meeting we agreed to use Discord for the communication purpose. I ha
 
 Points
 
-*1
-*2
-*3
+* 1
+* 2
+* 3
 
 
