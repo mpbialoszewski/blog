@@ -23,7 +23,11 @@ needs of all of the types of users.*
 * Use cases - list all of the tasks (including description to them)  that the user might want to do within the app. Basically it means that we need to describe what the user want to do step by step and how it should be performed
 * Error conditions - we need to think forward and imagine what can go wrong within the app, how to prevent certain bugs/ errors from happening and diagnose them early. What if the user would like to do action (A) but he cannot interact with button (B) ? 
 
-##### *Online presentation should contain:*
+##### *Online presentation:*
+
+* should be a mock-up of our application
+* mock-up should look as beliveable as possible (ideal size 1024 x  768)
+* content within mock-up should look like the real application 
 
 
 
