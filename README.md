@@ -1,9 +1,18 @@
 # CS22120 - Software Engineering Group project 
 
-## 31/01/2020
 
-On the last meeting we agreed to use Discord for the communication purpose. I have volunteered to read and review *SE.QA.04 - User interface Specification Standards* and *SE.QA.09 - Java Coding Standards*. 
-Group also must read sections QA.01, 02.,03 to know what are requirements for this project are.
+## 8/02/2020
+
+I didn't attend last tutorial because of the personal reasons. However, i did read the minutes of meeting and found out the User Interface has to be worked on even further and we need to implement the ideas from Mobile mock-up. So I assume we decided that it has to be a desktop app 
+
+
+
+## 4/02/2020
+
+QA.09 review takes in place, will update shortly what I've learnt from it 
+
+[Here's some documentation on Java FX User Interface components  ](https://docs.oracle.com/javase/8/javafx/user-interface-tutorial/ui_controls.htm "Java FX")
+
 
 
 ## 3/02/2020
@@ -32,8 +41,9 @@ I've spent approximately 30 mins over that section
 
 I've spent approximately 10 mins over that section
 
-## 4/02/2020
 
-QA.09 review takes in place, will update shortly what I've learnt from it 
+## 31/01/2020
 
-[Here's some documentation on Java FX User Interface components  ](https://docs.oracle.com/javase/8/javafx/user-interface-tutorial/ui_controls.htm "Java FX")
+On the last meeting we agreed to use Discord for the communication purpose. I have volunteered to read and review *SE.QA.04 - User interface Specification Standards* and *SE.QA.09 - Java Coding Standards*. 
+Group also must read sections QA.01, 02.,03 to know what are requirements for this project are.
+
