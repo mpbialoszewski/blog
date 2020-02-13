@@ -1,5 +1,17 @@
 # CS22120 - Software Engineering Group project 
 
+## 13/02/2020
+
+We had a group meeting yesterday outisde of the scheduled tutorials. During that meeting we discussed concerns about the User Interface, Design and Test table for Testing. I suggested to the group to share their ideas on our Discord and later on we will decide what the orientation and look of the UI should be. Therefore we will be able to implement the final look with  SceneBuilder. 
+For the Design, we agreed to use multiple JSON files (one for dictionary and one for favourites - another one may be considered in the future)
+For QA I suggested to add additional sections to the table and include the actions made during the testing AND expected result.
+
+After that I created a Trello Board added all members of the project to that board. 
+
+## 11/02/2020
+
+I created couple of more prototypes with Balsamiq. Compared to the Moqups which I used before, the User Interface was not very friendly so I decided to change the tool to SceneBuilder. 
+
 
 ## 8/02/2020
 
