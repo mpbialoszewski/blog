@@ -6,7 +6,7 @@ We had a group meeting yesterday outisde of the scheduled tutorials. During that
 For the Design, we agreed to use multiple JSON files (one for dictionary and one for favourites - another one may be considered in the future)
 For QA I suggested to add additional sections to the table and include the actions made during the testing AND expected result.
 
-After that I created a Trello Board added all members of the project to that board. 
+After that I created a Trello Board and added all members of the project to that board. 
 
 ## 11/02/2020
 
