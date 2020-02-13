@@ -6,11 +6,17 @@ We had a group meeting yesterday outisde of the scheduled tutorials. During that
 For the Design, we agreed to use multiple JSON files (one for dictionary and one for favourites - another one may be considered in the future)
 For QA I suggested to add additional sections to the table and include the actions made during the testing AND expected result.
 
+For group meeting we have spent about 1 hour 
+
+
 After that I created a Trello Board and added all members of the project to that board. 
+Orginizing a board took me approx. 30 mins
 
 ## 11/02/2020
 
-I created couple of more prototypes with Balsamiq. Compared to the Moqups which I used before, the User Interface was not very friendly so I decided to change the tool to SceneBuilder. 
+I created couple of more prototypes with Balsamiq. Compared to the Moqups which I used before, the User Interface of that application was not very friendly. Most of the time spent was to learn what I can and cannot do with this app. After looking through the internet I found out the best solution is to directly build a UI with SceneBuilder. 
+
+Approx 2 hours. Kinda wasted.... 
 
 
 ## 8/02/2020
