@@ -1,4 +1,10 @@
-# CS22120 - Software Engineering Group project 
+# CS22120 - Software Engineering Group project
+
+## 17/02/2020
+
+This was my first meeting a Project Leader. During that meeting I've introduced others into the way we going to use Trello. I also introduced others to use Git and GitLab. During that meeting we realised we might have missed couple of bits in the documentation regarding App Specification and need to revise it again and make notes. 
+
+
 
 ## 13/02/2020
 
