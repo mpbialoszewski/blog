@@ -1,8 +1,14 @@
 # CS22120 - Software Engineering Group project
 
+## 19/02/2020
+
+We revised the document QA.04 and Welsh Vocabulary Tutor specification, so I am sure now what exactly is expected from us within the app specification. I was working today on the presentation and UI documentation to be ready to present it to our Project Manager and discuss possible fixes and refinement in the app. 
+I've spent 2-3 hours on that work today. Going to finish the document tomorrow with soj11 and tak16
+
+
 ## 17/02/2020
 
-This was my first meeting a Project Leader. During that meeting I've introduced others into the way we going to use Trello. I also introduced others to use Git and GitLab. During that meeting we realised we might have missed couple of bits in the documentation regarding App Specification and need to revise it again and make notes. 
+This was my first meeting as a Project Leader. During that meeting I've introduced others into the way we going to use Trello. I also introduced others to use Git and GitLab. During that meeting we realised we might have missed couple of bits in the documentation regarding App Specification and need to revise it again and make notes. 
 
 
 
