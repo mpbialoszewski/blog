@@ -2,7 +2,7 @@
 
 ## 20/02/2020
 
-Today we had a general meeting.  I've met with soj11 (QA Manager) and tak16(Deputy Leader) were discussing, reviewing and writing the User Interface documentation. It took us a long time, but managed to that in time for tomorrow review of it with our Project Manager.
+Today we had a general meeting.  I've met with soj11 (QA Manager) and tak16(Deputy Leader). We were discussing, reviewing and writing the User Interface documentation. It took us a long time, but managed to that in time for tomorrow review of it with our Project Manager.
 
 I dare to say it was a a real developer crunch time because I've spent almost 10 hours on those tasks - not only discussing with QA Manager and reviewing the document as Project Leader, but also finalizing and make documentation as concise and refined as possible with tak16. 
 At the end of the day, I've sent the document and presentation to all the members of the group. 
