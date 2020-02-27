@@ -1,5 +1,12 @@
 # CS22120 - Software Engineering Group project
 
+## 27/02/2020
+
+Today we had a final review meeting for UI Specs and Presentation, I was working on the presentation and recording videos for the presentation. I also double checked with soj11 if the UI case documentation and UI Presentation are up to standards required for final review before submission. 
+It did. 
+Also I've met with izk and discussed brief review of Testing Table and Testing Documentation.
+Time spent: 6 hours 
+
 ## 20/02/2020
 
 Today we had a general meeting.  I've met with soj11 (QA Manager) and tak16(Deputy Leader). We were discussing, reviewing and writing the User Interface documentation. It took us a long time, but managed to that in time for tomorrow review of it with our Project Manager.
