@@ -1,5 +1,12 @@
 # CS22120 - Software Engineering Group project
 
+## 4/03/2020
+
+Today we had a final review meeting for the Testing Standards documentation. Me, soj11 and tak16 discussed what should be changed in the final version of the document and also pointed out which of the testing description could be changed to be more concise and precise. 
+
+I was working a bit on the UI documentation. soj11 included some issues on GitLab and those will be fixed over next days 
+
+
 ## 27/02/2020
 
 Today we had a final review meeting for UI Specs and Presentation, I was working on the presentation and recording videos for the presentation. I also double checked with soj11 if the UI case documentation and UI Presentation are up to standards required for final review before submission. 
