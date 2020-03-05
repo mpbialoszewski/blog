@@ -1,5 +1,10 @@
 # CS22120 - Software Engineering Group project
 
+## 5/03/2020 
+
+The Test Spec group did their job and provided the Testing Specification and Test Table on time. Me and soj11 reviewed that document again and confirmed that it is up to the expected standards stated in QA.02 and QA.07
+
+
 ## 4/03/2020
 
 Today we had a final review meeting for the Testing Standards documentation. Me, soj11 and tak16 discussed what should be changed in the final version of the document and also pointed out which of the testing description could be changed to be more concise and precise. 
