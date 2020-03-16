@@ -2,7 +2,7 @@
 
 ## 5/03/2020 
 
-The Test Spec group did their job and provided the Testing Specification and Test Table on time. Me and soj11 reviewed that document again and confirmed that it is up to the expected standards stated in QA.02 and QA.07
+:fish: The Test Spec group did their job and provided the Testing Specification and Test Table on time. Me and soj11 reviewed that document again and confirmed that it is up to the expected standards stated in QA.02 and QA.07
 
 
 ## 4/03/2020
