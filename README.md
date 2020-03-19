@@ -1,8 +1,14 @@
 # CS22120 - Software Engineering Group project
 
+## 19/03/2020
+
+Last week I was struggling with my assignments for `User Experience` and `Artificial Intelligence` modules so I did not do too much regarding the project itself. 
+I tried to maintain my overview on the project remotely due to the coronavirus chaos ongoing. I planned to do online meeting with rest of the members, there there was not too much enthusiasm.
+My work this week was mostly about implementing the Gantt Chart and adding key events in the project to them and also assigning people to their tasks for the following weeks. 
+
 ## 5/03/2020 
 
-:fish: The Test Spec group did their job and provided the Testing Specification and Test Table on time. Me and soj11 reviewed that document again and confirmed that it is up to the expected standards stated in QA.02 and QA.07
+The Test Spec group did their job and provided the Testing Specification and Test Table on time. Me and soj11 reviewed that document again and confirmed that it is up to the expected standards stated in QA.02 and QA.07
 
 
 ## 4/03/2020
