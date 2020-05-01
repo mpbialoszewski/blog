@@ -1,5 +1,57 @@
 # CS22120 - Software Engineering Group project
 
+## 1/05/2020
+
+Action done
+
+- Run daily meeting with team
+- Discuss the issues that are still on GitLab Issues 
+- Checking the repository if it is up to standards expected (config/ dev/ src/ docs ) 
+- Add apropriate README.md to repository
+
+## 30/04/2020
+
+Action done 
+- Run daily meeting with team
+- Meeting with Chris on Zoom about the Maintance Documentation for SE.QA.10 Final Report purpose
+- Discussion with team about UI 
+- Summarize to Bernie what has been done throughtout the day 
+- Final checking of coding standards, commit the code  done to `master` branch and add appropriate description to READEM.md
+
+## 29/04/2020
+
+Action done
+
+
+- Run daily meeting with team
+- First day of acceptance testing - 90% positive
+- Discuss with Coding Team how to fix the issues we have found
+- Checking if the issues were fixed by assigning the Testing team again to the Acceptance Testing
+- Summarize to Bernie what has been done throughtout the day 
+
+
+
+## 28/04/2020
+
+Action done
+- Run daily meeting with team
+- Looked into the GitLab issues for Testing Table
+- Veryfying that Testing Table is up to standards of QA 
+- Start working on last coding issues that were risen and assign Coding Team to that 
+- Summarize to Bernie what has been done throughtout the day 
+
+## 27/04/2020
+
+Action done
+
+
+- Make a meeting with team about the plan for the Integration week and agree on the hour for daily meeting - 12:00
+- Assign people to work on Testing and Design Documentation
+- Helped Testing team set up the code by using TeamViewer and setting their Intelij Project Setup
+- Summarize to Bernie what has been done throughtout the day 
+
+
+
 ## 19/03/2020
 
 Last week I was struggling with my assignments for `User Experience` and `Artificial Intelligence` modules so I did not do too much regarding the project itself. 
